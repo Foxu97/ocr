@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+main .row .col 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
